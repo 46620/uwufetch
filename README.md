@@ -1,6 +1,7 @@
-# UwUFetch
+# FumoFetch
 
-A meme system info tool for (almost) all your Linux/Unix-based systems, based on the nyan/UwU trend on r/linuxmasterrace.
+A meme system info tool for (almost) all your Linux/Unix-based systems, based on fumos from the Touhou series.
+>the rest of the readme is uwufetch
 
 ## Contributing
 
